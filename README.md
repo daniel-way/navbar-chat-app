@@ -2,9 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 1. Create a Firebase Project
+
+Login to your firebase console and create a project, enabling the Google Auth Provider and Firestore
+
+## 2. Go to your Firebase Project's Settings and retrieve the API key
+
+You'll need it to access and initialize Firebase
+
+
+
+## 3. Run `yarn` and configure the project's .env
+
+This will app the app ready to go :)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+
 
 ### `yarn start`
 
