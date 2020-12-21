@@ -14,7 +14,7 @@ You'll need it to access and initialize Firebase
 
 ## 3. Run `yarn` and configure the project's .env
 
-This will app the app ready to go :)
+Make sure to fill out the Firebase initialization settings completely. This will get app the app ready to go :)
 
 
 
